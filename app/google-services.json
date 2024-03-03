@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "746077932026",
+    "firebase_url": "https://a24a-10357-l09-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "a24a-10357-l09",
+    "storage_bucket": "a24a-10357-l09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746077932026:android:1d3f7edcb9826179e9bc43",
+        "android_client_info": {
+          "package_name": "dev.tomco.a24a_10357_l09"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVOlfkfMIzGCbqlBfK1b60XeTviEagWek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
